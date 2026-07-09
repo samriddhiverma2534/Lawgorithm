@@ -1,4 +1,4 @@
-Lawgorithm — Full-Stack Web App
+Lawgorithm
 
 Where Law meets Algorithm for clarity.
 
